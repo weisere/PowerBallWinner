@@ -1,0 +1,16 @@
+C:\Users\Elyah Weiser\source\repos\PowerBallWinner\PowerBallWinner\bin\Debug\net6.0-windows\PowerBallWinner.exe
+C:\Users\Elyah Weiser\source\repos\PowerBallWinner\PowerBallWinner\bin\Debug\net6.0-windows\PowerBallWinner.deps.json
+C:\Users\Elyah Weiser\source\repos\PowerBallWinner\PowerBallWinner\bin\Debug\net6.0-windows\PowerBallWinner.runtimeconfig.json
+C:\Users\Elyah Weiser\source\repos\PowerBallWinner\PowerBallWinner\bin\Debug\net6.0-windows\PowerBallWinner.dll
+C:\Users\Elyah Weiser\source\repos\PowerBallWinner\PowerBallWinner\bin\Debug\net6.0-windows\PowerBallWinner.pdb
+C:\Users\Elyah Weiser\source\repos\PowerBallWinner\PowerBallWinner\obj\Debug\net6.0-windows\PowerBallWinner.csproj.GenerateResource.cache
+C:\Users\Elyah Weiser\source\repos\PowerBallWinner\PowerBallWinner\obj\Debug\net6.0-windows\PowerBallWinner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elyah Weiser\source\repos\PowerBallWinner\PowerBallWinner\obj\Debug\net6.0-windows\PowerBallWinner.AssemblyInfoInputs.cache
+C:\Users\Elyah Weiser\source\repos\PowerBallWinner\PowerBallWinner\obj\Debug\net6.0-windows\PowerBallWinner.AssemblyInfo.cs
+C:\Users\Elyah Weiser\source\repos\PowerBallWinner\PowerBallWinner\obj\Debug\net6.0-windows\PowerBallWinner.csproj.CoreCompileInputs.cache
+C:\Users\Elyah Weiser\source\repos\PowerBallWinner\PowerBallWinner\obj\Debug\net6.0-windows\PowerBallWinner.dll
+C:\Users\Elyah Weiser\source\repos\PowerBallWinner\PowerBallWinner\obj\Debug\net6.0-windows\refint\PowerBallWinner.dll
+C:\Users\Elyah Weiser\source\repos\PowerBallWinner\PowerBallWinner\obj\Debug\net6.0-windows\PowerBallWinner.pdb
+C:\Users\Elyah Weiser\source\repos\PowerBallWinner\PowerBallWinner\obj\Debug\net6.0-windows\PowerBallWinner.genruntimeconfig.cache
+C:\Users\Elyah Weiser\source\repos\PowerBallWinner\PowerBallWinner\obj\Debug\net6.0-windows\ref\PowerBallWinner.dll
+C:\Users\Elyah Weiser\source\repos\PowerBallWinner\PowerBallWinner\obj\Debug\net6.0-windows\PowerBallWinner.PowerBall.resources
